@@ -1,2 +1,2 @@
-# yatndeep-s-calculator
+# yatndeep'scalculator
 this is a arithmetic calculator
